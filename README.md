@@ -1,3 +1,7 @@
+###การเชื่อมต่อ API 
+##ทำแอปพลิเคชั่นปรับปรุงการแสดงผลส่วนติดต่อผู้ใช้
+หน้าแรกแสดงรายการพร้อมลิงค์นำทาง โดยให้แสดงชื่อและชื่อผู้แต่ง
+หน้าแสดงข้อมูลหนังสือ ให้แสดงรายละเอียดทั้งหมดของหนังสือ ปรับปรุงการแสดงส่วนติดต่อผู้ใช้งาน
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
